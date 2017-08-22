@@ -1,0 +1,124 @@
+{
+    "imst": {
+        "prefix": "imst",
+        "body": "import styled from 'styled-components';",
+        "description": "Import styled component library into your file"
+    },
+    "std": {
+        "prefix": "std",
+        "body": [
+            "styled.div`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a div element"
+    },
+    "sts": {
+        "prefix": "sts",
+        "body": [
+            "styled.section`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a div element"
+    },
+    "sta": {
+        "prefix": "sta",
+        "body": [
+            "styled.a`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a div element"
+    },
+    "star": {
+        "prefix": "star",
+        "body": [
+            "styled.article`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for an article element"
+    },
+    "stb": {
+        "prefix": "stb",
+        "body": [
+            "styled.b`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a b element"
+    },
+    "stbody": {
+        "prefix": "stbody",
+        "body": [
+            "styled.body`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a body element"
+    },
+    "stbtn": {
+        "prefix": "stbtn",
+        "body": [
+            "styled.button`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a button element"
+    },
+    "sth1": {
+        "prefix": "sth1",
+        "body": [
+            "styled.h1`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a div element"
+    },
+    "sth2": {
+        "prefix": "sth2",
+        "body": [
+            "styled.h2`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a div element"
+    },
+    "sth3": {
+        "prefix": "sth3",
+        "body": [
+            "styled.h3`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a div element"
+    },
+    "sth4": {
+        "prefix": "sth4",
+        "body": [
+            "styled.h4`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a div element"
+    },
+    "sth5": {
+        "prefix": "sth5",
+        "body": [
+            "styled.h5`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a div element"
+    },
+    "sth6": {
+        "prefix": "sth6",
+        "body": [
+            "styled.h6`",
+            "\t$1",
+            "`;"
+        ],
+        "description": "Define a styled component for a div element"
+    }
+}
